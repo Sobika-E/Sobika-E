@@ -1,14 +1,16 @@
-<h1 align="center">Heyy 👋, I'm Sobika Easwaramoorthy</h1>
-<h3 align="center" style="color:#61dafb;">💻 UI/UX Designer | MERN Stack Developer | Full Stack Developer</h3>
+<h1 align="center">Hi,<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand" width="40" height="40" /> I'm Sobika Easwaramoorthy</h1>
+<h3 align="center" style="color:#61dafb;">💻  Full Stack Developer | UI/UX Designer</h3>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Muthuraj-coder&color=ff69b4&style=for-the-badge)
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm a passionate Computer Science Engineering student.
+- 🎓 Pre-final Year **CSE Student**  
 - 🎨 I’m also a **creative UI/UX Designer** who loves crafting intuitive and aesthetic user interfaces.
-- 👩‍💻 Building **full-stack web applications** using modern tech.
-- 💡 Always eager to learn, grow, and bring impactful ideas to life.
+- 🌱 Learning **Full Stack Web Development
+- 🏆 Participated in **Hackathons** and eager to build real-world projects 
+  
 
 ---
 
