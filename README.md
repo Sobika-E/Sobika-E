@@ -7,8 +7,8 @@
 ### 👩‍💻 About Me
 
 - 🎓 Pre-final Year **CSE Student**  
-- 🎨 I’m also a **creative UI/UX Designer** who loves crafting intuitive and aesthetic user interfaces.
-- 🌱 Learning **Full Stack Web Development
+- 🎨 I’m also a creative **UI/UX Designer**, crafting intuitive and aesthetic user interfaces.”
+- 🌱 Learning **Full Stack Web Development**
 - 🏆 Participated in **Hackathons** and eager to build real-world projects 
   
 
