@@ -78,5 +78,5 @@
 
 ---
 
-> **“Design it simple. Code it clean. Deliver it real.”** 🎨💡
+> **Design it simple. Code it clean. Deliver it real.** 🎨💡
 
