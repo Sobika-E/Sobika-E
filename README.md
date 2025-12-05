@@ -2,12 +2,12 @@
 <h3 align="center" style="color:#61dafb;">💻  Full Stack Developer | UI/UX Designer</h3>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Muthuraj-coder&color=ff69b4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Sobika-E&color=ff69b4&style=for-the-badge)
 
 ### 👩‍💻 About Me
 
 - 🎓 Pre-final Year **CSE Student**  
-- 🎨 I’m also a creative **UI/UX Designer**, crafting intuitive and aesthetic user interfaces.”
+- 🎨 I’m also a creative **UI/UX Designer**, crafting intuitive and aesthetic user interfaces
 - 🌱 Learning **Full Stack Web Development**
 - 🏆 Participated in **Hackathons** and eager to build real-world projects 
   
